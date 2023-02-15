@@ -31,4 +31,3 @@ If you want to refer to MOA in a publication, please cite the following JMLR pap
 > MOA: Massive Online Analysis; Journal of Machine Learning Research 11: 1601-1604 
 
 
-# test
